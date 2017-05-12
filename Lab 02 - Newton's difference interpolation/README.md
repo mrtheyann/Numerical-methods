@@ -1,6 +1,14 @@
 ## Lab 02
 
-Using Newton's interpolation formula, calculate the value of the function _y_ for given values of _x_. When compiling a table of calculation monitoring differences. To solve problems, use the first and second columns of the table with values.
+1) Using Newton's interpolation formula, calculate the value of the function _y_ for given values of _x_. Monitor differences while compiling a table of calculation. To solve problem, use the first and second columns of the table with values.
+
+2) Using the least squares method built-in function, interpolate:
+
+   A) The function _y1(x)_ specified by the first and third columns of the table
+   
+   B) The polynomials of degree 2 and 5.
+
+   Plot the results to draw conclusions. Use the same canvas for clarity.
 
 ```
 x1 = 3.543 
